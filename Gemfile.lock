@@ -292,10 +292,9 @@ GEM
     turbolinks (5.0.0)
       turbolinks-source (~> 5)
     turbolinks-source (5.0.0)
-    twitter_cldr (3.3.0)
+    twitter_cldr (3.5.0)
       camertron-eprun
       cldr-plurals-runtime-rb (~> 1.0.0)
-      json
       tzinfo
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
