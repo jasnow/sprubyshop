@@ -11,7 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
 
-gem 'solidus'
+gem 'solidus', '1.4.0.rc1' # LOCKED DOWN
 gem 'solidus_auth_devise'
 
 group :development do
