@@ -220,7 +220,7 @@ GEM
       rabl (>= 0.9.4.pre1, < 0.12.0)
       solidus_core (= 1.4.0.rc1)
       versioncake (~> 3.0)
-    solidus_auth_devise (1.6.1)
+    solidus_auth_devise (1.6.2)
       deface (~> 1.0.0)
       devise (~> 4.1)
       devise-encryptable (= 0.2.0)
