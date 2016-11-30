@@ -74,7 +74,7 @@ GEM
     coffee-script-source (1.11.1)
     colorize (0.8.1)
     concurrent-ruby (1.0.2)
-    css_parser (1.4.6)
+    css_parser (1.4.7)
       addressable
     debug_inspector (0.0.2)
     deface (1.0.2)
