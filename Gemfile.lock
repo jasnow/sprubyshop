@@ -300,7 +300,7 @@ GEM
     truncate_html (0.9.3)
     turbolinks (5.0.1)
       turbolinks-source (~> 5)
-    turbolinks-source (5.0.1)
+    turbolinks-source (5.0.2)
     twitter_cldr (4.4.0)
       camertron-eprun
       cldr-plurals-runtime-rb (~> 1.0)
