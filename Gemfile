@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '5.0.2'
+gem 'minitest', '5.10.1' # 5/11/2017: ADDED TO STOP UPGRADE.
 
 gem 'pg'
 gem 'sass-rails'
