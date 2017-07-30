@@ -284,7 +284,7 @@ GEM
       solidus_core (= 2.2.1)
     solidus_sample (2.2.1)
       solidus_core (= 2.2.1)
-    solidus_support (0.1.2)
+    solidus_support (0.1.5)
     spring (2.0.2)
       activesupport (>= 4.2)
     sprockets (3.7.1)
