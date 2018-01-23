@@ -13,6 +13,7 @@ gem 'sdoc', group: :doc
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'deface'
 
 group :development do
   gem 'web-console'
