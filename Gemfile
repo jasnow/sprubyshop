@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '5.1.6'
 
 gem 'pg'
-gem 'sassc-rails'
+gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
