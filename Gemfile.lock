@@ -57,7 +57,7 @@ GEM
     cancancan (1.17.0)
     canonical-rails (0.2.3)
       rails (>= 4.1, < 5.3)
-    carmen (1.1.0)
+    carmen (1.1.1)
       activesupport (>= 3.0.0)
     climate_control (0.2.0)
     coffee-rails (4.2.2)
