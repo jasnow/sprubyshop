@@ -86,7 +86,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
-    deface (1.5.0)
+    deface (1.5.1)
       nokogiri (>= 1.6)
       polyglot
       rails (>= 4.1)
