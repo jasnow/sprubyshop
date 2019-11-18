@@ -244,10 +244,11 @@ GEM
       kaminari-activerecord (~> 1.1)
       responders
       solidus_core (= 2.9.3)
-    solidus_auth_devise (2.3.0)
+    solidus_auth_devise (2.4.0)
+      deface (~> 1.0)
       devise (~> 4.1)
       devise-encryptable (= 0.2.0)
-      solidus_core (>= 1.2.0, < 3)
+      solidus_core (>= 2.6, < 3)
       solidus_support (>= 0.1.3)
     solidus_backend (2.9.3)
       autoprefixer-rails
