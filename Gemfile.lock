@@ -156,7 +156,7 @@ GEM
     polyamorous (2.3.0)
       activerecord (>= 5.0)
     polyglot (0.3.5)
-    rack (2.0.8)
+    rack (2.1.1)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (5.2.4.1)
