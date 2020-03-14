@@ -40,7 +40,7 @@ GEM
     activejob (6.0.2.1)
       activesupport (= 6.0.2.1)
       globalid (>= 0.3.6)
-    activemerchant (1.105.0)
+    activemerchant (1.106.0)
       activesupport (>= 4.2)
       builder (>= 2.1.2, < 4.0.0)
       i18n (>= 0.6.9)
@@ -217,7 +217,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (1.0.0)
+    sdoc (1.1.0)
       rdoc (>= 5.0)
     solidus (2.10.0)
       solidus_api (= 2.10.0)
