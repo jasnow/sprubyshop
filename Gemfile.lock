@@ -222,7 +222,8 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.0.0)
+    sdoc (2.0.1)
+      rack
       rdoc (>= 5.0)
     solidus (2.11.1)
       solidus_api (= 2.11.1)
