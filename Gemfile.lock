@@ -169,8 +169,6 @@ GEM
       terrapin (~> 0.6.0)
     paranoia (2.4.2)
       activerecord (>= 4.0, < 6.1)
-    polyamorous (2.3.2)
-      activerecord (>= 5.2.1)
     polyglot (0.3.5)
     rack (2.2.3)
     rack-test (1.1.0)
@@ -203,11 +201,10 @@ GEM
       thor (>= 0.20.3, < 2.0)
     rainbow (3.0.0)
     rake (13.0.1)
-    ransack (2.3.2)
-      activerecord (>= 5.2.1)
-      activesupport (>= 5.2.1)
+    ransack (2.4.0)
+      activerecord (>= 5.2.4)
+      activesupport (>= 5.2.4)
       i18n
-      polyamorous (= 2.3.2)
     rdoc (6.2.1)
     responders (3.0.1)
       actionpack (>= 5.0)
@@ -329,7 +326,7 @@ GEM
     websocket-driver (0.7.3)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.4.1)
+    zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
