@@ -67,7 +67,7 @@ GEM
       zeitwerk (~> 2.3)
     acts_as_list (1.0.2)
       activerecord (>= 4.2)
-    autoprefixer-rails (10.0.3.0)
+    autoprefixer-rails (10.1.0.0)
       execjs
     awesome_nested_set (3.2.1)
       activerecord (>= 4.0.0, < 7.0)
