@@ -209,7 +209,7 @@ GEM
       activerecord (>= 5.2.4)
       activesupport (>= 5.2.4)
       i18n
-    rdoc (6.2.1)
+    rdoc (6.3.2)
     responders (3.0.1)
       actionpack (>= 5.0)
       railties (>= 5.0)
